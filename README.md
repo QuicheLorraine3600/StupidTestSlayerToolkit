@@ -12,7 +12,7 @@ Preparation is key to any successful endeavor, and test-taking is no exception. 
 
 "If at first you don't succeed, cheat." - Unknown 
 
-Okay, we don't condone cheating, but we do offer a variety of clever tips and tricks to help you navigate even the most ridiculous test questions. From mnemonic devices to subtle glances at your neighbor's paper, our toolkit includes everything you need to get ahead.
+Okay, we don't condone cheating, but we do offer a variety of clever tips and tricks to help you navigate even the most ridiculous test questions. From mnemonic devices to ~~subtle glances at your neighbor's paper~~, our toolkit includes everything you need to get ahead.
 
 ## 🧠 The Power of Mindfulness 
 
