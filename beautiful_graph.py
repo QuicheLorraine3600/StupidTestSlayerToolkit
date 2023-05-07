@@ -5,7 +5,7 @@ import math
 pipeline_stages_input = input("Pipeline Stages: ")
 forwarding_paths_input = input("Forwarding Paths: ")
 PIPELINE_STAGES_STR = "F-D-E1-E2-E3-M1-M2-M3-M4-W" if pipeline_stages_input == "" else pipeline_stages_input
-FORWARDING_PATHS_STR = "E3->E1, E2->E1, M1->E1, M2->E1, M4->E1" if forwarding_paths_input == "" else forwarding_paths_input
+FORWARDING_PATHS_STR = "E3->E1, M1->E1, M2->E1, M4->E1" if forwarding_paths_input == "" else forwarding_paths_input
 
 pipeline_stages = PIPELINE_STAGES_STR.split("-")
 forwarding_paths = list(filter(lambda stage: stage != "E1", FORWARDING_PATHS_STR.replace("->", " ").replace(", ", " ").split(" ")))
